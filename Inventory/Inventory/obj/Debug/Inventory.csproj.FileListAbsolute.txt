@@ -1,0 +1,7 @@
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\Inventory\Inventory\obj\Debug\Inventory.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\Inventory\Inventory\obj\Debug\Inventory.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\Inventory\Inventory\bin\Debug\Inventory.exe.config
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\Inventory\Inventory\bin\Debug\Inventory.exe
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\Inventory\Inventory\bin\Debug\Inventory.pdb
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\Inventory\Inventory\obj\Debug\Inventory.exe
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\Inventory\Inventory\obj\Debug\Inventory.pdb
